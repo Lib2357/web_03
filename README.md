@@ -1,8 +1,8 @@
 # Đăng nhập Google & Facebook với Laravel Socialite
 
-Họ tên: Hung Pham
-Mã sinh viên: [Mã của bạn]
-Lớp: [Tên lớp]
+Họ tên: Pham Nguyen Hung
+Mã sinh viên: 23810310276
+Lớp: D18CNPM2
 
 ## Hướng dẫn cài đặt
 1. Chạy `composer install`
